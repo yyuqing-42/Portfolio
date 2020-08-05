@@ -12,8 +12,6 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 > Git,
 > Classification
 
-![](/images/Kickstarter.jpg)
-
 <img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg" width="400" height="200" />
 
 Predicted whether a project is successful or failed and provided recommendations for improving success rate for founders
@@ -25,7 +23,7 @@ Predicted whether a project is successful or failed and provided recommendations
 > Linear Regression,
 > Regression Diagnostics
 
-![](/images/Housing.png)
+<img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/Housing.png" width="400" height="200" />
 
 Built a linear regression model to predict the sale price of houses to help people get a accurate understanding of the housing market in Ames, Iowa.
 
@@ -35,7 +33,7 @@ Built a linear regression model to predict the sale price of houses to help peop
 > ggplot2,
 > Experiment Design
 
-![](/images/coffee.png)
+<img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/coffee.png" width="400" height="200" />
 
 My group conducted a two-way randomized block design to study the potential effects of coffee and music on human's memory. As coffee and music become increasingly common in the workplace, it is important to see how they might affect employee work performance and productivity. The results of this study may provide insight on how employers should provide employees with accommodations.
 
@@ -46,7 +44,7 @@ My group conducted a two-way randomized block design to study the potential effe
 > dplyr,
 > Posterdown
 
-![](/images/indeed.jpg)
+<img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/indeed.jpg" width="400" height="200" />
 
 In today’s competitive labor market, sourcing the best talent is more difficult than ever. Although factors such as income, benefits, and company culture affect an applicant’s willingness to apply to a company, the job posting itself also contributes to an applicant’s willingness to apply. In order to hire the best employees, companies are pushed to improve the quality of their job postings because only the top postings will attract the top candidates. Thus, my group set out to explore some factors that will influence the popularity of a job posting in order to give companies the best advice.
 
@@ -57,6 +55,6 @@ In today’s competitive labor market, sourcing the best talent is more difficul
 > Text Mining,
 > Hypothesis Testing
 
-![](/images/stress.jpg)
+<img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/stress.jpg" width="400" height="200" />
 
 Explore which variables affect the level of stress among STEM students and NON-STEM students.
