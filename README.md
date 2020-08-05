@@ -2,7 +2,7 @@
 
 *Hello, my name is Yuqing Yang.*
 
-*I recently graduated from University of California, Los Angeles **(UCLA)** with a Bachelor of Science in **Statistics**. During my time at college, I have developed a strong analytics and problem-solving skill set that can tackle business problems. *
+*I recently graduated from University of California, Los Angeles **(UCLA)** with a Bachelor of Science in **Statistics**. During my time at college, I have developed a strong analytics and problem-solving skill set that can tackle business problems.*
 
 *In my portfolio below, I'd like to share some of my data science projects I completed so far. Hope you enjoy reading it!*
 
