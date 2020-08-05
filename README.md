@@ -10,7 +10,7 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 > Git,
 > Classification
 
-![](/images/Kickstarter.jpg)
+![](/image/Kickstarter.jpg)
 
 
 **Predicted whether a project is successful or failed and provided recommendations for improving success rate for founders.**
