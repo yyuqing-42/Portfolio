@@ -14,7 +14,7 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 ![](/images/Kickstarter.jpg)
 
-<img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg" width="200" height="200" />
+<img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg" width="400" height="200" />
 
 Predicted whether a project is successful or failed and provided recommendations for improving success rate for founders
 
