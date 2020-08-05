@@ -23,7 +23,7 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 > Linear Regression,
 > Regression Diagnostics
 
-![](/images/Housing.jpg)
+![](/image/Housing.jpg)
 
 **Built a linear regression model to predict the sale price of houses to help people get a accurate understanding of the housing market in Ames, Iowa.**
 
