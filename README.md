@@ -1,3 +1,4 @@
+Hello, I'm Yuqing. In my portfolio below, I’d like to share some of my data science projects I completed so far. Hope you enjoy reading it!
 
 # Kickstarter: Successful or Failed?
 
