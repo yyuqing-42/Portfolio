@@ -1,6 +1,4 @@
-# Welcome to Yuqing's Portfolio
-
-Hello, my name is Yuqing Yang.
+Hello, my name is Yuqing Yang. Welcome to my Portfolio!
 
 I recently graduated from University of California, Los Angeles **(UCLA)** with a Bachelor of Science in **Statistics**. During my time at college, I have developed a strong analytics and problem-solving skill set that can tackle business problems.
 
