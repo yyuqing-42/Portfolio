@@ -64,7 +64,7 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 > Text Mining,
 > Hypothesis Testing
 
-<img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/stress.jpg" width="400" height="200" />
+<img src="/images/stress.jpg" width="400" height="200" />
 
 **Explore which variables affect the level of stress among STEM students and NON-STEM students.**
 
