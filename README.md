@@ -4,6 +4,9 @@
 
 ![](https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg)
 
+## Predicted whether a project is successful or failed and provided recommendations for improving success rate
+
+
 [**Predicting House Price in Ames, Iowa**](https://github.com/yyuqing-42/Predicting-Housing-Prices)
 
 [**The Effect of Coffee and Music on People's Memory**](https://github.com/yyuqing-42/The-Effects-of-Coffee-and-Music-on-Human-s-memory-)
