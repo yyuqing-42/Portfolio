@@ -2,6 +2,8 @@
 
 [**Kickstarter: Successful or Failed?**](https://github.com/yyuqing-42/Kickstarter-Classification)
 
+![](https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg)
+
 [**Predicting House Price in Ames, Iowa**](https://github.com/yyuqing-42/Predicting-Housing-Prices)
 
 [**The Effect of Coffee and Music on People's Memory**](https://github.com/yyuqing-42/The-Effects-of-Coffee-and-Music-on-Human-s-memory-)
