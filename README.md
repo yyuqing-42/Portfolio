@@ -23,6 +23,8 @@ Predicted whether a project is successful or failed and provided recommendations
 > Linear Regression,
 > Regression Diagnostics
 
+![](/images/Housing.png)
+
 Built a linear regression model to predict the sale price of houses to help people get a accurate understanding of the housing market in Ames, Iowa.
 
 [**The Effect of Coffee and Music on People's Memory**](https://github.com/yyuqing-42/The-Effects-of-Coffee-and-Music-on-Human-s-memory-)
@@ -30,6 +32,8 @@ Built a linear regression model to predict the sale price of houses to help peop
 > R, 
 > ggplot2,
 > Experiment Design
+
+![](/images/coffee.png)
 
 My group conducted a two-way randomized block design to study the potential effects of coffee and music on human's memory. As coffee and music become increasingly common in the workplace, it is important to see how they might affect employee work performance and productivity. The results of this study may provide insight on how employers should provide employees with accommodations.
 
@@ -40,6 +44,8 @@ My group conducted a two-way randomized block design to study the potential effe
 > dplyr,
 > Posterdown
 
+![](/images/indeed.jpg)
+
 In today’s competitive labor market, sourcing the best talent is more difficult than ever. Although factors such as income, benefits, and company culture affect an applicant’s willingness to apply to a company, the job posting itself also contributes to an applicant’s willingness to apply. In order to hire the best employees, companies are pushed to improve the quality of their job postings because only the top postings will attract the top candidates. Thus, my group set out to explore some factors that will influence the popularity of a job posting in order to give companies the best advice.
 
 [**Exit Survey Analysis**](https://github.com/yyuqing-42/STATS-141SL-STEM-Survey-Analysis)
@@ -48,5 +54,7 @@ In today’s competitive labor market, sourcing the best talent is more difficul
 > heatmap,
 > Text Mining,
 > Hypothesis Testing
+
+![](/images/stress.jpg)
 
 Explore which variables affect the level of stress among STEM students and NON-STEM students.
