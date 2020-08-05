@@ -14,6 +14,8 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 ![](/images/Kickstarter.jpg)
 
+<img src="Kickstarter.jpg" alt="drawing" width="200"/>
+
 Predicted whether a project is successful or failed and provided recommendations for improving success rate for founders
 
 
