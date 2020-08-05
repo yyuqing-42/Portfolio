@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: Welcome to Yuqing's Portfolio!
+social-network-links:
+  email: "yuqingyang0402@g.ucla.edu"
+  github: yyuqing-42
+  rss: true
