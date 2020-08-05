@@ -33,6 +33,9 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 [Click Here to Learn More](https://github.com/yyuqing-42/Predicting-Housing-Prices)
 
+<!-- blank line -->
+----
+<!-- blank line -->
 
 ## The Effect of Coffee and Music on People's Memory
 
@@ -45,6 +48,10 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 **My group conducted a two-way randomized block design to study the potential effects of coffee and music on human's memory. As coffee and music become increasingly common in the workplace, it is important to see how they might affect employee work performance and productivity. The results of this study may provide insight on how employers should provide employees with accommodations.**
 
 [Click Here to Learn More](https://github.com/yyuqing-42/The-Effects-of-Coffee-and-Music-on-Human-s-memory-)
+
+<!-- blank line -->
+----
+<!-- blank line -->
 
 ## Indeed Job Posting
 
@@ -59,6 +66,9 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 [Click Here to Learn More](https://github.com/yyuqing-42/Indeed-Job-Posting)
 
+<!-- blank line -->
+----
+<!-- blank line -->
 
 ## Exit Survey Analysis
 
