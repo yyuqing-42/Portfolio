@@ -1,4 +1,4 @@
-## Kickstarter: Successful or Failed?
+# Kickstarter: Successful or Failed?
 
 > Python, 
 > Git,
@@ -15,7 +15,7 @@
 ----
 <!-- blank line -->
 
-## Predicting House Price in Ames, Iowa
+# Predicting House Price in Ames, Iowa
 
 > R,
 > Linear Regression,
@@ -31,7 +31,7 @@
 ----
 <!-- blank line -->
 
-## The Effect of Coffee and Music on People's Memory
+# The Effect of Coffee and Music on People's Memory
 
 > R, 
 > ggplot2,
@@ -47,7 +47,7 @@
 ----
 <!-- blank line -->
 
-## Indeed Job Posting
+# Indeed Job Posting
 
 > R,
 > ggplot2,
@@ -64,7 +64,7 @@
 ----
 <!-- blank line -->
 
-## Exit Survey Analysis
+# Exit Survey Analysis
 
 > R, 
 > heatmap,
