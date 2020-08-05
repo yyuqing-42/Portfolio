@@ -31,7 +31,7 @@
 ----
 <!-- blank line -->
 
-# The Effect of Coffee and Music on People's Memory
+# The Effect of Coffee and Music on Memory
 
 > R, 
 > ggplot2,
