@@ -2,9 +2,12 @@
 
 [**Kickstarter: Successful or Failed?**](https://github.com/yyuqing-42/Kickstarter-Classification)
 
+> Python 
+> Classification
+
 ![](https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg)
 
-## Predicted whether a project is successful or failed and provided recommendations for improving success rate
+Predicted whether a project is successful or failed and provided recommendations for improving success rate
 
 
 [**Predicting House Price in Ames, Iowa**](https://github.com/yyuqing-42/Predicting-Housing-Prices)
