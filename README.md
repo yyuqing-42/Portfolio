@@ -23,7 +23,7 @@
 
 ![](/image/Housing.jpg)
 
-**Built a linear regression model to predict the sale price of houses to help people get a accurate understanding of the housing market in Ames, Iowa.**
+**Built a linear regression model to predict the sale price of houses to help people get an accurate understanding of the housing market in Ames, Iowa.**
 
 [Learn More](https://github.com/yyuqing-42/Predicting-Housing-Prices)
 
@@ -57,7 +57,7 @@
 
 ![](/image/indeed.jpg)
 
-**Focused on exploring some factors that will influence the popularity of a job posting on Indeed and provided recommendations on how to make a job posting more attractive and garner more clicks of interest.**
+**Focused on exploring some factors that influence the popularity of a job posting on Indeed and provided recommendations on how to make a job posting more attractive and garner more clicks of interest.**
 
 [Learn More](https://github.com/yyuqing-42/Indeed-Job-Posting)
 
