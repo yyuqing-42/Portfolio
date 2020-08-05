@@ -17,6 +17,10 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 [Click Here to Learn More](https://github.com/yyuqing-42/Kickstarter-Classification)
 
+<!-- blank line -->
+----
+<!-- blank line -->
+
 ## Predicting House Price in Ames, Iowa
 
 > R,
