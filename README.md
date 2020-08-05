@@ -1,4 +1,4 @@
-Hello, I'm Yuqing. In my portfolio below, I’d like to share some of my data science projects I completed so far. Hope you enjoy reading it!
+Hello, I'm Yuqing. In my portfolio below, I would like to share some of my data science projects I completed. Hope you enjoy reading it!
 
 <!-- blank line -->
 ----
