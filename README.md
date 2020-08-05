@@ -68,7 +68,7 @@
 # Survey Analysis for UCLA
 
 > R, 
-> heatmap,
+> Heatmap,
 > Text Mining,
 > Hypothesis Testing
 
