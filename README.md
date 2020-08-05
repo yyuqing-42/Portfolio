@@ -48,7 +48,7 @@
 ----
 <!-- blank line -->
 
-# Indeed Job Posting
+# Indeed Job Posting Analysis
 
 > R,
 > ggplot2,
