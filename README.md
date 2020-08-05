@@ -12,7 +12,7 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 > Git,
 > Classification
 
-![](/images/Kickstarter.jpg)
+![Kickstarter | 400X200](/images/Kickstarter.jpg)
 
 <img src="/images/Kickstarter.jpg" width="400" height="200" />
 
