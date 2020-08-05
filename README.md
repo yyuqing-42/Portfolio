@@ -8,8 +8,6 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 ## Kickstarter: Successful or Failed?
 
-[Click here to learn more](https://github.com/yyuqing-42/Kickstarter-Classification)
-
 > Python, 
 > Git,
 > Classification
@@ -18,8 +16,9 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 Predicted whether a project is successful or failed and provided recommendations for improving success rate for founders
 
+[Click Here to Learn More](https://github.com/yyuqing-42/Kickstarter-Classification)
 
-[**Predicting House Price in Ames, Iowa**](https://github.com/yyuqing-42/Predicting-Housing-Prices)
+## Predicting House Price in Ames, Iowa
 
 > R,
 > Linear Regression,
@@ -28,6 +27,9 @@ Predicted whether a project is successful or failed and provided recommendations
 <img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/Housing.png" width="400" height="200" />
 
 Built a linear regression model to predict the sale price of houses to help people get a accurate understanding of the housing market in Ames, Iowa.
+
+[Click Here to Learn More](https://github.com/yyuqing-42/Predicting-Housing-Prices)
+
 
 [**The Effect of Coffee and Music on People's Memory**](https://github.com/yyuqing-42/The-Effects-of-Coffee-and-Music-on-Human-s-memory-)
 
