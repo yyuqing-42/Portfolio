@@ -14,7 +14,7 @@ In my portfolio below, I'd like to share some of my data science projects I comp
 
 <img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg" width="400" height="200" />
 
-Predicted whether a project is successful or failed and provided recommendations for improving success rate for founders
+**Predicted whether a project is successful or failed and provided recommendations for improving success rate for founders.**
 
 [Click Here to Learn More](https://github.com/yyuqing-42/Kickstarter-Classification)
 
@@ -26,12 +26,12 @@ Predicted whether a project is successful or failed and provided recommendations
 
 <img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/Housing.png" width="400" height="200" />
 
-Built a linear regression model to predict the sale price of houses to help people get a accurate understanding of the housing market in Ames, Iowa.
+**Built a linear regression model to predict the sale price of houses to help people get a accurate understanding of the housing market in Ames, Iowa.**
 
 [Click Here to Learn More](https://github.com/yyuqing-42/Predicting-Housing-Prices)
 
 
-[**The Effect of Coffee and Music on People's Memory**](https://github.com/yyuqing-42/The-Effects-of-Coffee-and-Music-on-Human-s-memory-)
+## The Effect of Coffee and Music on People's Memory
 
 > R, 
 > ggplot2,
@@ -39,9 +39,11 @@ Built a linear regression model to predict the sale price of houses to help peop
 
 <img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/coffee.png" width="400" height="200" />
 
-My group conducted a two-way randomized block design to study the potential effects of coffee and music on human's memory. As coffee and music become increasingly common in the workplace, it is important to see how they might affect employee work performance and productivity. The results of this study may provide insight on how employers should provide employees with accommodations.
+**My group conducted a two-way randomized block design to study the potential effects of coffee and music on human's memory. As coffee and music become increasingly common in the workplace, it is important to see how they might affect employee work performance and productivity. The results of this study may provide insight on how employers should provide employees with accommodations.**
 
-[**Indeed Job Posting**](https://github.com/yyuqing-42/Indeed-Job-Posting)
+[Click Here to Learn More](https://github.com/yyuqing-42/The-Effects-of-Coffee-and-Music-on-Human-s-memory-)
+
+## Indeed Job Posting
 
 > R,
 > ggplot2,
@@ -50,9 +52,12 @@ My group conducted a two-way randomized block design to study the potential effe
 
 <img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/indeed.jpg" width="400" height="200" />
 
-In today’s competitive labor market, sourcing the best talent is more difficult than ever. Although factors such as income, benefits, and company culture affect an applicant’s willingness to apply to a company, the job posting itself also contributes to an applicant’s willingness to apply. In order to hire the best employees, companies are pushed to improve the quality of their job postings because only the top postings will attract the top candidates. Thus, my group set out to explore some factors that will influence the popularity of a job posting in order to give companies the best advice.
+**In today’s competitive labor market, sourcing the best talent is more difficult than ever. Although factors such as income, benefits, and company culture affect an applicant’s willingness to apply to a company, the job posting itself also contributes to an applicant’s willingness to apply. In order to hire the best employees, companies are pushed to improve the quality of their job postings because only the top postings will attract the top candidates. Thus, my group set out to explore some factors that will influence the popularity of a job posting in order to give companies the best advice.**
 
-[**Exit Survey Analysis**](https://github.com/yyuqing-42/STATS-141SL-STEM-Survey-Analysis)
+[Click Here to Learn More](https://github.com/yyuqing-42/Indeed-Job-Posting)
+
+
+## Exit Survey Analysis
 
 > R, 
 > heatmap,
@@ -61,4 +66,6 @@ In today’s competitive labor market, sourcing the best talent is more difficul
 
 <img src="https://github.com/yyuqing-42/Portfolio/blob/master/images/stress.jpg" width="400" height="200" />
 
-Explore which variables affect the level of stress among STEM students and NON-STEM students.
+**Explore which variables affect the level of stress among STEM students and NON-STEM students.**
+
+[Click Here to Learn More](https://github.com/yyuqing-42/STATS-141SL-STEM-Survey-Analysis)
