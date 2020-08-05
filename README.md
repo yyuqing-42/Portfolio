@@ -6,7 +6,7 @@ I recently graduated from University of California, Los Angeles **(UCLA)** with 
 
 In my portfolio below, I'd like to share some of my data science projects I completed so far. Hope you enjoy reading it!
 
-[## Kickstarter: Successful or Failed?](https://github.com/yyuqing-42/Kickstarter-Classification)
+[Kickstarter: Successful or Failed?](https://github.com/yyuqing-42/Kickstarter-Classification)
 
 > Python, 
 > Git,
