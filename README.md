@@ -1,5 +1,9 @@
 Hello, I'm Yuqing. In my portfolio below, I’d like to share some of my data science projects I completed so far. Hope you enjoy reading it!
 
+<!-- blank line -->
+----
+<!-- blank line -->
+
 # Kickstarter: Successful or Failed?
 
 > Python, 
