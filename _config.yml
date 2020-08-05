@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: Welcome to Yuqing's Portfolio!
+
+# --- Footer options --- #
+
 social-network-links:
+
   email: "yuqingyang0402@g.ucla.edu"
   github: yyuqing-42
   linkedin: "https://www.linkedin.com/in/yyuqing/"
