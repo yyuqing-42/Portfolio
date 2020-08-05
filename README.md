@@ -2,7 +2,7 @@
 
 [**Kickstarter: Successful or Failed?**](https://github.com/yyuqing-42/Kickstarter-Classification)
 
-> Python 
+> Python, 
 > Classification
 
 ![](https://github.com/yyuqing-42/Portfolio/blob/master/images/Kickstarter.jpg)
