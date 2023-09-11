@@ -1,8 +1,8 @@
-Hi,i'm Yuqing.
+Hi, i'm Yuqing.
 <!-- blank line -->
-I'm a Young professional with a passion for for transforming complex datasets into actionable insights. I graduated from UCLA with a bachelor's degree in Statistics. My current position is as a Quantitative Analyst at BHG Financial.
+I'm a Young professional with a passion for transforming complex datasets into actionable insights. I graduated from UCLA with a bachelor's degree in Statistics. My current position is as a Quantitative Analyst at BHG Financial.
 <!-- blank line -->
-Speciality: Sales/Revenue/Margin/Pricing Analytics
+Specialty: Sales/Revenue/Margin/Pricing Analytics
 <!-- blank line -->
 
 <!-- blank line -->
