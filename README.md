@@ -1,4 +1,6 @@
-Hello, I'm Yuqing. In my portfolio below, I would like to share some of my data science projects I completed. Hope you enjoy reading it!
+Hi,i'm Yuqing.
+I'm a Young professional with a passion for for transforming complex datasets into actionable insights. I graduated from UCLA with a bachelor's degree in Statistics. My current position is as a Quantitative Analyst at BHG Financial.
+Speciality: Sales/Revenue/Margin/Pricing Analytics
 
 <!-- blank line -->
 ----
