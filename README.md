@@ -1,7 +1,7 @@
 Hi, i'm Yuqing.
 
 
-I'm a Young professional with a passion for transforming complex datasets into actionable insights. I graduated from UCLA with a bachelor's degree in Statistics. My current position is as a Quantitative Analyst at BHG Financial.
+I'm a Young professional with a passion for transforming complex datasets into actionable insights. I graduated from UCLA with a bachelor's degree in Statistics in 2020. My current position is as a Quantitative Analyst at BHG Financial.
 
 Outside of work, I like to rock climb, capture street photographs, check out cute coffee shops, and hang out with my cats in the backyard!
 
